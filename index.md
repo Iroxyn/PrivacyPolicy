@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # PrivacyPolicy
 Privacy Policy
 
