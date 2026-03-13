@@ -5,7 +5,7 @@ title: Privacy Policy
 # PrivacyPolicy
 Privacy Policy
 
-This Privacy Policy applies to the Words United – Word Search mobile application (hereinafter referred to as the "Application"), developed and provided by SchizoBug Games (hereinafter referred to as the "Service Provider") as a free service. By using the Application, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy applies to the Words & Dishes mobile application (hereinafter referred to as the "Application"), developed and provided by SchizoBug Games (hereinafter referred to as the "Service Provider") as a free service. By using the Application, you agree to the collection and use of information in accordance with this policy.
 
 1. Information We Collect
 
